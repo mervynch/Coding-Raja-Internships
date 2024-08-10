@@ -1,0 +1,6 @@
+gym
+music
+notes
+coding
+travel
+study
